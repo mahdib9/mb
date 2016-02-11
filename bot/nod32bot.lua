@@ -220,7 +220,7 @@ function create_config( )
     "banhammer",
     "stats",
     "anti_spam",
-    "xamar",
+    "xmahdi",
     "lock_join",
     "lock_link",
     "lock_tag",
