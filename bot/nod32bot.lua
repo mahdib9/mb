@@ -244,7 +244,6 @@ function create_config( )
     "joke",
     "tex",
     "calc",
-    "tosupport",
     "google",
     "weather",
     "addplug",
